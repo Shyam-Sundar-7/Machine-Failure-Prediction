@@ -29,3 +29,6 @@ This dataset is part of the following publication, please cite when using this d
 S. Matzka, "Explainable Artificial Intelligence for Predictive Maintenance Applications," 2020 Third International Conference on Artificial Intelligence for Industries (AI4I), 2020, pp. 69-74, doi: 10.1109/AI4I49448.2020.00023.
 
 The image of the milling process is the work of Daniel Smyth @ Pexels: <https://www.pexels.com/de-de/foto/industrie-herstellung-maschine-werkzeug-10406128/>
+
+
+You can find detailed explanations for both the training pipeline and the inference pipeline in their respective folders, complete with accompanying visual results for your reference,which was done using azure machine learning studio.
