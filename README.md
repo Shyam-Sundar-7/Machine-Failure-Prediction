@@ -1,4 +1,4 @@
-# Predictive-Maintenance
+# Machine-Failure-Prediction
 
 About Dataset
 -------------
